@@ -1,0 +1,16 @@
+# Banco de dados
+*.sqlite3
+
+# Arquivos sensíveis
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Cache Django
+*.log
+
+# Configurações de editor
+.vscode/
+.idea/
