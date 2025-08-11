@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Ração",
+        "preco": 35.99,
+        "foto": "https://cobasi.vteximg.com.br/arquivos/ids/939251/racao-golden-special-para-caes-adultos-frango-e-carne-3310549-15kg-Lado.jpg?v=638757374687300000"
+    },
+    {
+        "nome": "Bolinha",
+        "preco": 15.99,
+        "foto": "https://vetex.vet.br/blog/wp-content/uploads/2021/01/5-motivos-para-oferecer-bolinha-para-cachorro.jpg"
+    },
+    {
+        "nome": "Cama",
+        "preco": 105.99,
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Uepub6p6KJQI2xhpyuQHyd8z-E8ZDsqHAA&s"
+    },
+    {
+        "nome": "Coleira",
+        "preco": 0.99,
+        "foto": "https://polipet.fbitsstatic.net/img/p/coleira-reforcada-de-courino-vermelha-sao-pet-para-cachorros-n-4-91255/285241-1.jpg?w=350&h=350&v=no-value"
+    },
+    {
+        "nome": "rato do pt",
+        "preco": 13,
+        "foto": "https://static.wikia.nocookie.net/chisdechisde-wiki/images/8/80/Rato_do_PT.jpg/revision/latest/smart/width/386/height/259?cb=20211007130704&path-prefix=pt-br"
+    }
+]
